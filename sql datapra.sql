@@ -149,4 +149,4 @@ select *
              range between unbounded preceding and unbounded following) as second_most_exp_prod
 from product;
 
-
+select * from product;
